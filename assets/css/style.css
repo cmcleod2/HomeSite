@@ -949,6 +949,37 @@ section {
   fill: #01D8FF;
 }
 
+.technologies .iconbox-sql i {
+  color: #EF0107;
+}
+
+.technologies .iconbox-sql:hover .icon i {
+  color: #fff;
+}
+
+.technologies .iconbox-sql:hover .icon path {
+  fill: #EF0107;
+}
+
+.technologies .iconbox-html i {
+  color: #e34c26;
+}
+
+.technologies .iconbox-html:hover .icon i {
+  color: #fff;
+}
+
+.technologies .iconbox-html:hover .icon path {
+  fill: #e34c26;
+}
+
+.ml-0 {
+  margin-left: 0 !important;
+}
+
+.mr-0 {
+  margin-right: 0 !important;
+}
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
